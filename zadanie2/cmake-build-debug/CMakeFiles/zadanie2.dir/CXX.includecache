@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/kenaj/ROK 2/SEMESTR 1/programowanie obiektowe/lekcja_2/zadanie2-kopia/main.cpp
+iostream
+-
+fstream
+-
+

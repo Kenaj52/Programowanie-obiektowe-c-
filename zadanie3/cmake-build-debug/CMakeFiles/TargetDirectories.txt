@@ -1,0 +1,3 @@
+/Users/kenaj/ROK 2/SEMESTR 1/programowanie obiektowe/lekcja_3/zadanie1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kenaj/ROK 2/SEMESTR 1/programowanie obiektowe/lekcja_3/zadanie1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kenaj/ROK 2/SEMESTR 1/programowanie obiektowe/lekcja_3/zadanie1/cmake-build-debug/CMakeFiles/zadanie1.dir
